@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 
 driver = webdriver.Firefox(executable_path='G:\exam\webdriver\geckodriver.exe')
-driver.get('xxx')
+driver.get('https://www.gundammad.co.uk/home.php')### test website
 
 point1 = []
 point2 = []
@@ -11,12 +11,12 @@ point2 = []
 content = driver.page_source
 soup = BeautifulSoup(content)
 
-for a in soup.findAll(attrs={'class': 'class'}):
+for a in soup.findAll(attrs={'class': 'new-prod-link'}):
     name = a.find('a')
     if name not in point1:
         point1.append(name.text)
 
-for b in soup.findAll(attrs={'class': 'otherclass'}):
+for b in soup.findAll(attrs={'class': 'currency'}):
     name2 = b.find('span')
     point2.append(name.text)
 
@@ -25,3 +25,36 @@ res2 = pd.Series(point2, name = 'Second')
 df = pd.DataFrame({'First': res1, 'Second': res2})
 df.to_csv('result.csv', index=False, encoding='utf-8')
 
+exit()
+
+### gives acceptable results from simple websites, anything more modern requires taking the page apart more
+
+"""
+#!/usr/bin/python 
+import mariadb 
+
+conn = mariadb.connect(
+    user="db_user",
+    password="db_user_passwd",
+    host="localhost",
+    database="employees")
+cur = conn.cursor() 
+
+#retrieving information 
+some_name = "Georgi" 
+cur.execute("SELECT first_name,last_name FROM employees WHERE first_name=?", (some_name,)) 
+
+for first_name, last_name in cur: 
+    print(f"First name: {first_name}, Last name: {last_name}")
+    
+#insert information 
+try: 
+    cur.execute("INSERT INTO employees (first_name,last_name) VALUES (?, ?)", ("Maria","DB")) 
+except mariadb.Error as e: 
+    print(f"Error: {e}")
+
+conn.commit() 
+print(f"Last Inserted ID: {cur.lastrowid}")
+    
+conn.close()
+"""

@@ -1,0 +1,181 @@
+1664917109977	geckodriver	INFO	Listening on 127.0.0.1:54470
+1664917113020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileqjtSY0"
+1664917113249	Marionette	INFO	Marionette enabled
+1664917113252	Marionette	INFO	Listening on port 54481
+WebDriver BiDi listening on ws://127.0.0.1:54471
+Read port: 54481
+1664917113468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileqjtSY0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54471/devtools/browser/2db7d42c-ac5e-4f35-8c88-5352eb7fa4d6
+1664917167600	Marionette	INFO	Stopped listening on port 54481
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664917794787	geckodriver	INFO	Listening on 127.0.0.1:54574
+1664917797851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileGwrIU4"
+1664917798063	Marionette	INFO	Marionette enabled
+1664917798066	Marionette	INFO	Listening on port 54584
+Read port: 54584
+WebDriver BiDi listening on ws://127.0.0.1:54575
+1664917798165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileGwrIU4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54575/devtools/browser/73ad6e95-fa86-45f3-9ab1-a698803487a3
+1664917836834	Marionette	INFO	Stopped listening on port 54584
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664918150500	geckodriver	INFO	Listening on 127.0.0.1:54701
+1664918153561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54702" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileCU1Na4"
+1664918153774	Marionette	INFO	Marionette enabled
+1664918153777	Marionette	INFO	Listening on port 54711
+Read port: 54711
+WebDriver BiDi listening on ws://127.0.0.1:54702
+1664918153874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileCU1Na4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54702/devtools/browser/97501802-cb77-4803-a053-a41344fb54e9
+1664918325227	Marionette	INFO	Stopped listening on port 54711
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofilea6QlW2"
+1664918179879	Marionette	INFO	Marionette enabled
+1664918179882	Marionette	INFO	Listening on port 54767
+Read port: 54767
+WebDriver BiDi listening on ws://127.0.0.1:54758
+1664918179981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofilea6QlW2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54758/devtools/browser/5420fad6-abc9-4d5c-93db-d1a4b3583cdc
+1664918186106	Marionette	INFO	Stopped listening on port 54767
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664918284285	geckodriver	INFO	Listening on 127.0.0.1:54817
+1664918287345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileJusjdC"
+1664918287557	Marionette	INFO	Marionette enabled
+1664918287560	Marionette	INFO	Listening on port 54827
+Read port: 54827
+WebDriver BiDi listening on ws://127.0.0.1:54818
+1664918287659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileJusjdC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54818/devtools/browser/655e3dd4-e298-458b-9ceb-837fa7124c1c
+1664918298972	Marionette	INFO	Stopped listening on port 54827
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664918327459	geckodriver	INFO	Listening on 127.0.0.1:54875
+1664918330504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54876" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileip2hcn"
+1664918330715	Marionette	INFO	Marionette enabled
+1664918330718	Marionette	INFO	Listening on port 54885
+Read port: 54885
+WebDriver BiDi listening on ws://127.0.0.1:54876
+1664918330818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileip2hcn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54876/devtools/browser/0b2445b7-7eb1-4817-80e0-97fca3235367
+1664918337666	Marionette	INFO	Stopped listening on port 54885
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664918387248	geckodriver	INFO	Listening on 127.0.0.1:54932
+1664918390296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileKaojmC"
+1664918390524	Marionette	INFO	Marionette enabled
+1664918390528	Marionette	INFO	Listening on port 54942
+WebDriver BiDi listening on ws://127.0.0.1:54933
+Read port: 54942
+1664918390714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileKaojmC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54933/devtools/browser/2c04cfce-86ac-45de-b26e-da4280a38197
+1664918403479	Marionette	INFO	Stopped listening on port 54942
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664918749548	geckodriver	INFO	Listening on 127.0.0.1:55016
+1664918752612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileKPL0wu"
+1664918752820	Marionette	INFO	Marionette enabled
+1664918752824	Marionette	INFO	Listening on port 55026
+Read port: 55026
+WebDriver BiDi listening on ws://127.0.0.1:55017
+1664918752922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileKPL0wu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55017/devtools/browser/a225f93e-2236-4833-9f29-7426c7e05aad
+JavaScript error: https://www.gundammad.co.uk/home.php, line 610: TypeError: products_data[20527] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 722: TypeError: products_data[20526] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 834: TypeError: products_data[20525] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 947: TypeError: products_data[20499] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1059: TypeError: products_data[20448] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1171: TypeError: products_data[20404] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1284: TypeError: products_data[20046] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1396: TypeError: products_data[19828] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1508: TypeError: products_data[19765] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1621: TypeError: products_data[19620] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1733: TypeError: products_data[19551] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1845: TypeError: products_data[19446] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1958: TypeError: products_data[19311] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2070: TypeError: products_data[18397] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2182: TypeError: products_data[18084] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2295: TypeError: products_data[18048] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2407: TypeError: products_data[17881] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2519: TypeError: products_data[17863] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2632: TypeError: products_data[17640] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2744: TypeError: products_data[935] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2856: TypeError: products_data[20550] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2969: TypeError: products_data[20549] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3081: TypeError: products_data[20548] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3193: TypeError: products_data[20547] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3306: TypeError: products_data[20546] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3418: TypeError: products_data[20545] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3530: TypeError: products_data[20544] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3668: TypeError: products_data[20370] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3783: TypeError: products_data[19453] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3898: TypeError: products_data[20533] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4014: TypeError: products_data[20535] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4129: TypeError: products_data[19808] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4244: TypeError: products_data[19844] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4360: TypeError: products_data[19066] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4475: TypeError: products_data[20528] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4590: TypeError: products_data[19882] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4706: TypeError: products_data[20532] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4821: TypeError: products_data[17825] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4936: TypeError: products_data[17827] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 5052: TypeError: products_data[17828] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 5167: TypeError: products_data[17830] is undefined
+1664918775450	Marionette	INFO	Stopped listening on port 55026
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664918944580	geckodriver	INFO	Listening on 127.0.0.1:55077
+1664918947619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileSi0ehH"
+1664918947830	Marionette	INFO	Marionette enabled
+1664918947834	Marionette	INFO	Listening on port 55087
+WebDriver BiDi listening on ws://127.0.0.1:55078
+Read port: 55087
+1664918948030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\David\\AppData\\Local\\Temp\\rust_mozprofileSi0ehH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55078/devtools/browser/8f05684a-c7b1-4a0c-afdb-8514b3488a22
+JavaScript error: https://www.gundammad.co.uk/home.php, line 610: TypeError: products_data[20527] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 722: TypeError: products_data[20526] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 834: TypeError: products_data[20525] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 947: TypeError: products_data[20499] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1059: TypeError: products_data[20448] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1171: TypeError: products_data[20404] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1284: TypeError: products_data[20046] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1396: TypeError: products_data[19828] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1508: TypeError: products_data[19765] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1621: TypeError: products_data[19620] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1733: TypeError: products_data[19551] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1845: TypeError: products_data[19446] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 1958: TypeError: products_data[19311] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2070: TypeError: products_data[18397] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2182: TypeError: products_data[18084] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2295: TypeError: products_data[18048] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2407: TypeError: products_data[17881] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2519: TypeError: products_data[17863] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2632: TypeError: products_data[17640] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2744: TypeError: products_data[935] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2856: TypeError: products_data[20550] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 2969: TypeError: products_data[20549] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3081: TypeError: products_data[20548] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3193: TypeError: products_data[20547] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3306: TypeError: products_data[20546] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3418: TypeError: products_data[20545] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3530: TypeError: products_data[20544] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3668: TypeError: products_data[20370] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3783: TypeError: products_data[19453] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 3898: TypeError: products_data[20533] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4014: TypeError: products_data[20535] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4129: TypeError: products_data[19808] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4244: TypeError: products_data[19844] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4360: TypeError: products_data[19066] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4475: TypeError: products_data[20528] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4590: TypeError: products_data[19882] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4706: TypeError: products_data[20532] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4821: TypeError: products_data[17825] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 4936: TypeError: products_data[17827] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 5052: TypeError: products_data[17828] is undefined
+JavaScript error: https://www.gundammad.co.uk/home.php, line 5167: TypeError: products_data[17830] is undefined
+1664918958522	Marionette	INFO	Stopped listening on port 55087
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18412, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
