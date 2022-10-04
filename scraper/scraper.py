@@ -1,9 +1,12 @@
 import pandas as pd
 from bs4 import BeautifulSoup
+from selenium.webdriver.firefox.service import Service
 from selenium import webdriver
 
-driver = webdriver.Firefox(executable_path='G:\exam\webdriver\geckodriver.exe')
-driver.get('https://www.gundammad.co.uk/home.php')### test website
+service = Service(executable_path="G:\exam\webdriver\geckodriver.exe")
+driver = webdriver.Firefox(service=service)
+url = "https://www.gundammad.co.uk/home.php"
+driver.get(url)### test website / alternative https://codedamn-classrooms.github.io/webscraper-python-codedamn-classroom-website/
 
 point1 = []
 point2 = []
